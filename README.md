@@ -1,3 +1,5 @@
+![image](https://github.com/felipe123981/currency-conversor-vue-app/assets/57236262/9d977f34-be25-477d-915c-24ee7e46323a)
+
 # currency_conversor
 
 ## Project setup
